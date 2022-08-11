@@ -5,3 +5,8 @@
   "logo": "https://i.imgur.com/eJmYef2.jpeg",
   "keywords": [""]
 }
+"SESSION": {
+			"description": "session id",
+			"required": true,
+			"value": ""
+		},
